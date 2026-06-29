@@ -1,4 +1,4 @@
-# 
+# Custom AI Fake News Detector presets. Featuring predictive-analytics and sentiment-analysis — optimized for maximum performance.
 
 
 
